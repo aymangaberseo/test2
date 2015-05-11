@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-
+<script>alert("this is me post")</script>
 <div class="row">
     <div class="col-md-9">
         <div class="panel panel-default panel-body">
