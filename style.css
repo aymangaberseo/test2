@@ -1,5 +1,22 @@
 /*
 Theme Name: Code 95 Theme
 Author: Mostafa Attia
-Version: 0.0.0
+Version: 1
 */
+
+@import url('css/bootstrap.min.css');
+
+body{
+    margin-bottom: 70px;
+}
+
+.panel h3{
+    margin-top: 5px;
+}
+
+img.alignright { float: right; margin: 0 0 1em 1em; }
+img.alignleft { float: left; margin: 0 1em 1em 0; }
+img.aligncenter { display: block; margin-left: auto; margin-right: auto; }
+.alignright { float: right; }
+.alignleft { float: left; }
+.aligncenter { display: block; margin-left: auto; margin-right: auto; }
